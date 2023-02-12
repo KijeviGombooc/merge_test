@@ -1,2 +1,2 @@
 this is a file
-Line from master
+Line from b1
